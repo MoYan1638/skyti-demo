@@ -1,1 +1,349 @@
-{"main":[{"id":"q1","dimension":"adventure","subDimension":"exploration","text":"在光遇的世界里，你更倾向于主动探索未知的隐藏区域，还是沿着熟悉的路线完成任务？","options":[{"text":"主动探索未知区域，寻找隐藏的秘密","scores":{"exploration":2}},{"text":"沿着熟悉路线，高效完成任务","scores":{"exploration":-2}}]},{"id":"q2","dimension":"social","subDimension":"cooperation","text":"当遇到需要多人合作才能完成的任务时，你会？","options":[{"text":"主动发起合作，组织大家一起完成","scores":{"cooperation":2}},{"text":"等待别人发起，自己配合参与","scores":{"cooperation":-1}},{"text":"尽量自己完成，减少对他人依赖","scores":{"cooperation":-2}}]},{"id":"q3","dimension":"creativity","subDimension":"expression","text":"在装扮搭配上，你更注重？","options":[{"text":"独特的创意和个性表达","scores":{"expression":2}},{"text":"和谐统一的整体美感","scores":{"expression":1}},{"text":"实用性和功能性","scores":{"expression":-1}},{"text":"跟随流行趋势","scores":{"expression":-2}}]},{"id":"q4","dimension":"adventure","subDimension":"challenge","text":"面对困难的跑图路线或挑战关卡，你的态度是？","options":[{"text":"兴奋地迎接挑战，失败也不气馁","scores":{"challenge":2}},{"text":"谨慎尝试，做好充分准备","scores":{"challenge":1}},{"text":"选择更容易的替代方案","scores":{"challenge":-1}},{"text":"等待其他人帮助完成","scores":{"challenge":-2}}]},{"id":"q5","dimension":"social","subDimension":"sharing","text":"发现新的烛火点或隐藏区域后，你会？","options":[{"text":"立即分享给好友，带他们一起去","scores":{"sharing":2}},{"text":"在星盘上发动态，让更多人知道","scores":{"sharing":1}},{"text":"告诉关系好的朋友","scores":{"sharing":0}},{"text":"保持低调，自己享受发现的乐趣","scores":{"sharing":-2}}]},{"id":"q6","dimension":"spirit","subDimension":"patience","text":"在等待其他玩家完成任务或收集时，你会？","options":[{"text":"耐心等待，不催促","scores":{"patience":2}},{"text":"做其他事情，偶尔看看进度","scores":{"patience":1}},{"text":"温和地提醒一下","scores":{"patience":-1}},{"text":"感到焦虑，希望快点结束","scores":{"patience":-2}}]},{"id":"q7","dimension":"creativity","subDimension":"innovation","text":"对于游戏中的新玩法或新活动，你的态度是？","options":[{"text":"第一时间尝试，探索所有可能性","scores":{"innovation":2}},{"text":"等活动稳定后再参与","scores":{"innovation":0}},{"text":"看攻略后再决定是否参与","scores":{"innovation":-1}},{"text":"只参与自己感兴趣的部分","scores":{"innovation":1}}]},{"id":"q8","dimension":"social","subDimension":"empathy","text":"看到萌新玩家遇到困难时，你会？","options":[{"text":"主动上前帮助，耐心指导","scores":{"empathy":2}},{"text":"等待对方求助后再帮忙","scores":{"empathy":1}},{"text":"教他们基本操作后就离开","scores":{"empathy":0}},{"text":"继续自己的游戏，相信他们能自己解决","scores":{"empathy":-1}}]},{"id":"q9","dimension":"adventure","subDimension":"curiosity","text":"在地图中发现一个看起来无法到达的角落，你会？","options":[{"text":"想尽办法尝试到达，哪怕花很长时间","scores":{"curiosity":2}},{"text":"简单尝试几次，不行就放弃","scores":{"curiosity":0}},{"text":"网上搜索攻略后尝试","scores":{"curiosity":1}},{"text":"认为去不了，不去浪费时间","scores":{"curiosity":-2}}]},{"id":"q10","dimension":"spirit","subDimension":"mindfulness","text":"在光遇中，你更喜欢？","options":[{"text":"安静地欣赏风景，享受宁静时刻","scores":{"mindfulness":2}},{"text":"边聊天边游戏，享受社交乐趣","scores":{"mindfulness":-1}},{"text":"专注完成任务和收集","scores":{"mindfulness":0}},{"text":"寻找刺激的冒险体验","scores":{"mindfulness":-2}}]},{"id":"q11","dimension":"social","subDimension":"friendship","text":"对于光遇中的好友系统，你的使用习惯是？","options":[{"text":"好友很多，经常和不同的人互动","scores":{"friendship":2}},{"text":"好友不多，但都是关系很好的","scores":{"friendship":1}},{"text":"偶尔添加好友，互动不多","scores":{"friendship":-1}},{"text":"很少添加好友，更喜欢单独游戏","scores":{"friendship":-2}}]},{"id":"q12","dimension":"creativity","subDimension":"aesthetics","text":"你在游戏中收集蜡烛和爱心的主要动力是？","options":[{"text":"解锁更多装扮，打造独特形象","scores":{"aesthetics":2}},{"text":"完成收集目标，获得成就感","scores":{"aesthetics":1}},{"text":"和朋友一起，收集只是顺便","scores":{"aesthetics":0}},{"text":"没有特别动力，随缘收集","scores":{"aesthetics":-1}}]},{"id":"q13","dimension":"adventure","subDimension":"persistence","text":"在尝试一个困难的挑战多次失败后，你会？","options":[{"text":"继续尝试，相信自己一定能成功","scores":{"persistence":2}},{"text":"休息一下，之后再继续尝试","scores":{"persistence":1}},{"text":"寻找其他方法或寻求帮助","scores":{"persistence":0}},{"text":"暂时放弃，以后再说","scores":{"persistence":-2}}]},{"id":"q14","dimension":"spirit","subDimension":"reflection","text":"游戏结束后，你会？","options":[{"text":"回顾今天有趣的事，期待明天","scores":{"reflection":2}},{"text":"和朋友讨论今天的游戏经历","scores":{"reflection":1}},{"text":"直接下线，明天继续","scores":{"reflection":0}},{"text":"感觉有点累，需要放松一下","scores":{"reflection":-1}}]},{"id":"q15","dimension":"social","subDimension":"communication","text":"在游戏中遇到有趣的玩家，你会？","options":[{"text":"主动点亮，尝试建立联系","scores":{"communication":2}},{"text":"如果对方先行动，再回应","scores":{"communication":1}},{"text":"保持距离，只做简单的互动","scores":{"communication":-1}},{"text":"不太在意，继续自己的游戏","scores":{"communication":-2}}]}]}
+{
+  "main": [
+    {
+      "id": "q15",
+      "dim": "S5",
+      "text": "在游戏中遇到有趣的玩家，你会？",
+      "options": [
+        {
+          "label": "主动点亮，尝试建立联系",
+          "value": 2
+        },
+        {
+          "label": "如果对方先行动，再回应",
+          "value": 2
+        },
+        {
+          "label": "保持距离，只做简单的互动",
+          "value": 1
+        },
+        {
+          "label": "不太在意，继续自己的游戏",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "dim": "P3",
+      "text": "游戏结束后，你会？",
+      "options": [
+        {
+          "label": "回顾今天有趣的事，期待明天",
+          "value": 2
+        },
+        {
+          "label": "和朋友讨论今天的游戏经历",
+          "value": 2
+        },
+        {
+          "label": "直接下线，明天继续",
+          "value": 1
+        },
+        {
+          "label": "感觉有点累，需要放松一下",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "q69",
+      "dim": "A10",
+      "text": "在游戏中遇到问题时，你更倾向于？",
+      "options": [
+        {
+          "label": "自己研究解决，很有成就感",
+          "value": 2
+        },
+        {
+          "label": "先试一下，实在不行再问人",
+          "value": 2
+        },
+        {
+          "label": "直接问别人或看攻略",
+          "value": 1
+        },
+        {
+          "label": "可能就放弃了",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "q64",
+      "dim": "C10",
+      "text": "对于游戏中的细节（如NPC对话、隐藏彩蛋），你会？",
+      "options": [
+        {
+          "label": "仔细探索，不放过任何细节",
+          "value": 2
+        },
+        {
+          "label": "偶然发现时会研究一下",
+          "value": 2
+        },
+        {
+          "label": "看到就看到，不特意找",
+          "value": 1
+        },
+        {
+          "label": "对这类细节不太关注",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "q59",
+      "dim": "S",
+      "text": "当好友在游戏中犯错（如误操作、迷路）时，你会？",
+      "options": [
+        {
+          "label": "安慰他们，帮忙解决",
+          "value": 2
+        },
+        {
+          "label": "觉得没关系，继续玩就好",
+          "value": 2
+        },
+        {
+          "label": "有些着急，但还是会帮忙",
+          "value": 1
+        },
+        {
+          "label": "不太有耐心等待",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "q43",
+      "dim": "S",
+      "text": "很久没见的好友突然上线，你会？",
+      "options": [
+        {
+          "label": "立即传过去打招呼",
+          "value": 2
+        },
+        {
+          "label": "发消息问候一下",
+          "value": 2
+        },
+        {
+          "label": "等他们主动联系",
+          "value": 1
+        },
+        {
+          "label": "看情况，有空再打招呼",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "dim": "A2",
+      "text": "面对困难的跑图路线或挑战关卡，你的态度是？",
+      "options": [
+        {
+          "label": "兴奋地迎接挑战，失败也不气馁",
+          "value": 2
+        },
+        {
+          "label": "谨慎尝试，做好充分准备",
+          "value": 2
+        },
+        {
+          "label": "选择更容易的替代方案",
+          "value": 1
+        },
+        {
+          "label": "等待其他人帮助完成",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "q65",
+      "dim": "A",
+      "text": "对于季节先祖的回归，你的态度是？",
+      "options": [
+        {
+          "label": "提前准备蜡烛，确保能兑换所有想要的",
+          "value": 2
+        },
+        {
+          "label": "选择性地兑换喜欢的物品",
+          "value": 2
+        },
+        {
+          "label": "看当时蜡烛够不够",
+          "value": 1
+        },
+        {
+          "label": "错过就错过，不强求",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "q58",
+      "dim": "P",
+      "text": "当你想在游戏中寻找平静时，你会去？",
+      "options": [
+        {
+          "label": "秘密的角落，独自待着",
+          "value": 2
+        },
+        {
+          "label": "风景优美的地方发呆",
+          "value": 2
+        },
+        {
+          "label": "找一个安静的地图散步",
+          "value": 2
+        },
+        {
+          "label": "在遇境或家里休息",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "q87",
+      "dim": "S",
+      "text": "你更喜欢的游戏方式是？",
+      "options": [
+        {
+          "label": "和固定的好友一起玩",
+          "value": 2
+        },
+        {
+          "label": "认识新朋友，拓展社交圈",
+          "value": 2
+        },
+        {
+          "label": "一个人自由自在地玩",
+          "value": 1
+        },
+        {
+          "label": "看心情，有时独处有时社交",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "q74",
+      "dim": "P",
+      "text": "对于光遇的未来，你？",
+      "options": [
+        {
+          "label": "充满期待，会一直玩下去",
+          "value": 2
+        },
+        {
+          "label": "保持关注，看更新情况",
+          "value": 2
+        },
+        {
+          "label": "随缘，能玩多久玩多久",
+          "value": 1
+        },
+        {
+          "label": "可能不会玩太久",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "q23",
+      "dim": "S6",
+      "text": "朋友向你求助（如跑图、送心等）时，你会？",
+      "options": [
+        {
+          "label": "二话不说，立即帮忙",
+          "value": 2
+        },
+        {
+          "label": "看自己时间安排，尽量帮忙",
+          "value": 2
+        },
+        {
+          "label": "问清楚情况再决定",
+          "value": 1
+        },
+        {
+          "label": "较少答应这类请求",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "q53",
+      "dim": "A",
+      "text": "对于日常跑图路线，你会？",
+      "options": [
+        {
+          "label": "优化出最高效的路线",
+          "value": 2
+        },
+        {
+          "label": "使用成熟的跑图路线",
+          "value": 2
+        },
+        {
+          "label": "随心所欲，走到哪算哪",
+          "value": 1
+        },
+        {
+          "label": "跟着朋友或老玩家走",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "dim": "C3",
+      "text": "你在游戏中收集蜡烛和爱心的主要动力是？",
+      "options": [
+        {
+          "label": "解锁更多装扮，打造独特形象",
+          "value": 2
+        },
+        {
+          "label": "完成收集目标，获得成就感",
+          "value": 2
+        },
+        {
+          "label": "和朋友一起，收集只是顺便",
+          "value": 1
+        },
+        {
+          "label": "没有特别动力，随缘收集",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "dim": "A1",
+      "text": "对于新开放的地图或季节区域，你的探索方式是？",
+      "options": [
+        {
+          "label": "第一时间深入探索每个角落",
+          "value": 2
+        },
+        {
+          "label": "跟随主线逐步探索",
+          "value": 2
+        },
+        {
+          "label": "等攻略出来后再系统探索",
+          "value": 1
+        },
+        {
+          "label": "偶尔路过看看，不刻意探索",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}
